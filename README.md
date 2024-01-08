@@ -8,9 +8,12 @@
   - Relevant Coursework:
     - Software Development in Python & Java
     - Mathematical Foundations of Computer Science
+    - Computer Systems & Computer Systems Programming
     - Data Structures & Software Design
     - Algorithms & Computation
     - Machine Learning for Data Science
+    - Artificial Intelligence
+    - Big Data Analytics
 
 - **Bachelor of Science in Psychology** August 2017 - May 2021
   The University of Pittsburgh | Dietrich School of Arts and Science, Pittsburgh, PA
@@ -31,6 +34,7 @@
   - Migrated and merged legacy databases to a new production database
   - Migrated a Spring Boot application from JpaRepository to utilize and interact with Azure Cosmos DB
   - Implemented an Email API service and conducted comprehensive API testing to ensure the reliability of backend systems
+  - Utilized SQL to analyze consumer data and implemented targeted strategies to increase client satisfaction and retention
 
 - **Research Assistant** August 2020 - May 2021
   University of Pittsburgh, Directed Research, Pittsburgh, PA
@@ -55,7 +59,7 @@
 ## SKILLS
 - **Programming Languages:** Python, Java, C, C++, R, SQL, Excel
 - **Web Development:** HTML, JavaScript, SpringBoot, Microsoft Azure, PostgresQL, DBeaver, Heroku
-- **Other:** Git, Tableau, Google BigQuery
+- **Other:** Git, Tableau, Google BigQuery, EHR Systems
 
 ## CERTIFICATIONS
 - Google Data Analytics Professional Certificate - January 2023
